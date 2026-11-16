@@ -2,9 +2,7 @@ This is f1 file
 Welcome to devops
 hello learners
 
-<<<<<<< Updated upstream
 Welcome to stash
-=======
+
 java is simple and easy
 java is more secure
->>>>>>> Stashed changes
